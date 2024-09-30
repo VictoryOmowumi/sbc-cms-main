@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_home_screens",
+  "info": {
+    "displayName": "Home Screen",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "Slider": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

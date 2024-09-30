@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "homescreens",
+  "info": {
+    "singularName": "homescreen",
+    "pluralName": "homescreens",
+    "displayName": "homescreen"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Slider": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.slider"
+    }
+  }
+}
